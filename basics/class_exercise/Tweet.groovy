@@ -1,4 +1,4 @@
-@groovy.transform.ToString
+@groovy.transform.ToString //Groovy AST Transformations
 class Tweet {
 
     String username // @therealdanvega
